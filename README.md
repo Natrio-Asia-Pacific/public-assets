@@ -36,7 +36,7 @@ assets: the only thing exposed is the handful of images we deliberately put here
 
 1. Add the image to this repo.
 2. Its public URL is
-   `https://raw.githubusercontent.com/<org>/public-assets/<branch-or-commit-SHA>/<file>`.
+   `https://raw.githubusercontent.com/<org>/public-assets/<branch-or-commit-SHA>/images/<file>`.
    Pin to a **commit SHA** (not `main`) for an immutable URL that a later commit can't change.
 3. Set it on the registered agent by patching the agent's `icon.uri` in Gemini Enterprise — see the
    agents repo's `docs/deploy-and-register.md` ("Setting an agent icon") for the exact API call.
