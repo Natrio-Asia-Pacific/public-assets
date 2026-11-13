@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="CargoWise Knowledge">
+<rect width="512" height="512" fill="#4C5AFF"/>
+<g stroke-linejoin="round" stroke-width="12">
+<polygon points="256,120 368,184 256,248 144,184" fill="#FFFFFF" stroke="#FFFFFF"/>
+<polygon points="144,184 256,248 256,384 144,320" fill="#C7CCFF" stroke="#C7CCFF"/>
+<polygon points="256,248 368,184 368,320 256,384" fill="#8F99FF" stroke="#8F99FF"/>
+</g>
+<polygon points="212,145 300,195 300,231 276,217 276,209 188,159" fill="#4C5AFF" opacity="0.55"/>
+</svg>
